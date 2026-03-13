@@ -13,3 +13,7 @@
 9. what is node.js?
 10. why node.js is popular?
 11. cons of using node.js?
+12. dependencies of NodeJs
+
+
+**Even Driven Architecture of Node.js:**
