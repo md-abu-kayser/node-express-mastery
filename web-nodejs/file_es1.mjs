@@ -1,10 +1,5 @@
-const { a } = require("./file2");
-const { a: x } = require("./file3");
-// const { add } = require("./utils/add");
-// const { subs } = require("./utils/subs");
-const { add, subs } = require("./utils");
+// common js to esm
 
-// console.log(a, x);
+import { a } from "./file_es2.mjs";
 
-console.log(add(5, 6));
-console.log(subs(a, x));
+console.log(a);

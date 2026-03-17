@@ -1,3 +1,3 @@
-const a = 10;
+export const a = 30;
 
-module.exports = { a };
+// export { a };
