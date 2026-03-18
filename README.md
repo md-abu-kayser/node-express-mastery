@@ -1,4 +1,4 @@
-# Fundamentals of Web Application with Nodejs
+# Fundamentals of Node.js - CommonJS, ESM & Runtime Concepts
 
 > A hands‑on Node.js learning repository focused on module systems, runtime concepts, and building a solid foundation for modern backend development.
 
