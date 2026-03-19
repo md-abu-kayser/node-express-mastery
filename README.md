@@ -1,5 +1,9 @@
 # Fundamentals of Node.js - CommonJS, ESM & Runtime Concepts
 
+<!-- MIT License -->
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+
 > A hands‑on Node.js learning repository focused on module systems, runtime concepts, and building a solid foundation for modern backend development.
 
 ---
