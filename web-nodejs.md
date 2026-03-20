@@ -1,6 +1,6 @@
 # Fundamentals of Web Application with Nodejs
 
-## **Explore & explain in detail these topics with AI:**
+## Explore & explain in detail these topics with AI:
 
 1. How The Web Works?
 2. Frontend, Backend Development.
