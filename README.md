@@ -54,21 +54,21 @@ This repository is designed as a learning playground for mastering Node.js funda
 ```
 ├── LICENSE
 ├── README.md
-└── web-nodejs
-    ├── file1.js            (CommonJS example)
-    ├── file2.js            (CommonJS export)
-    ├── file3.js            (CommonJS export)
-    ├── file_es1.mjs        (ESM example)
-    ├── file_es2.mjs        (ESM export)
-    ├── file_es3.mjs        (ESM export)
-    ├── utils               (CommonJS utility modules)
-    │   ├── add.js
-    │   ├── subs.js
-    │   └── index.js
-    └── utils_esm           (ESM utility modules)
-        ├── add.mjs
-        ├── subs.mjs
-        └── index.mjs
+└── WEB_NODEJS.md
+├── file1.js            (CommonJS example)
+├── file2.js            (CommonJS export)
+├── file3.js            (CommonJS export)
+├── file_es1.mjs        (ESM example)
+├── file_es2.mjs        (ESM export)
+├── file_es3.mjs        (ESM export)
+├── utils               (CommonJS utility modules)
+│   ├── add.js
+│   ├── subs.js
+│   └── index.js
+└── utils_esm           (ESM utility modules)
+    ├── add.mjs
+    ├── subs.mjs
+    └── index.mjs
 ```
 
 ---
